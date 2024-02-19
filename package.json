@@ -57,6 +57,7 @@
     "James Crosby (https://github.com/autopulated)"
   ],
   "main": "./lib/xml2js",
+  "types": "./lib/xml2js.d.ts",
   "files": [
     "lib"
   ],
